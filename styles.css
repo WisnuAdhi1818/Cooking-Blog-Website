@@ -1,0 +1,52 @@
+*{
+    text-decoration: none;
+}
+
+nav{
+    background: orange;
+}
+
+nav .container a{
+    color: #000;
+}
+
+header {
+    background: linear-gradient(rgba(12, 12, 12, 0.781), rgba(14, 14, 14, 0.644), rgba(19, 19, 19, 0.582)), url(gambar/pexels-chanwalrus-958545.jpg) no-repeat center center/cover;
+    height: 100vh;
+}
+
+#home h1{
+    color: #fff;
+}
+
+#home p{
+    color: #fff;
+}
+
+#home a{
+    margin-top: 2rem;
+    background: orange;
+    border: none;
+}
+
+#recipes .container .row{
+    margin-top: 2rem;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+
+#contact input{
+    border: 1px solid #000;
+}
+
+#contact textarea{
+    border: 1px solid #000;
+}
+
+footer {
+    text-align: center;
+    background: orange;
+}
